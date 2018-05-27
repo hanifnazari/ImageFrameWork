@@ -2,9 +2,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *@author Hanif Nazari
- *@author Noak Pettersson
- *
  *
  * Main class, hold an instance of ImageViewer. 
  * A method in this class that creates a list of filters which it passed to the Object.
